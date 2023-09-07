@@ -3,9 +3,9 @@
 
 .my-ask {
     margin: 20px;
-    border: 2px solid #af2367;
+    border: 2px solid hsl(331, 98%, 45%);
     padding: 30px;
-    background-color: #ff003c;
+    background-color: hsl(231, 30%, 73%);
 }
 
 
@@ -22,7 +22,22 @@
 
 
 
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: rgba(90, 20, 76, 0.265);
+  }
+
+
+
+
+
 .column {
-    width: 300px;
+    width: 450px;
     float: left;
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background-color: orange;
+    margin-bottom: 10px;
   }
