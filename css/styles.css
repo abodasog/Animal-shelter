@@ -18,3 +18,11 @@
     padding: 30px;
     background-color: yellow;
 }
+
+
+
+
+.column {
+    width: 300px;
+    float: left;
+  }
